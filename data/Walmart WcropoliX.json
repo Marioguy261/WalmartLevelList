@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "Walmart WcropoliX",
+    "author": "goofiboy83",
+    "creators": ["goofiboy83", "Enkkraxy"],
+    "verifier": "goofiboy83",
+    "verification": "https://www.youtube.com/watch?v=nVTAuXq_ACQ",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Beenitiger",
+            "link": "https://youtu.be/qjB_dXiKZbE?si=KW0kUiS0MNm0BDJw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Marioguy261",
+            "link": "https://medal.tv/games/geometry-dash/clips/nlc2LVRHB-WmiGocT?invite=cr-MSwwSzQsNTYzMTc3MjEw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
