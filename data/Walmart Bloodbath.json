@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Murshark",
+            "link": "https://youtu.be/pH9Obu_IBq8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "150IQPlayer",
+            "link": "https://medal.tv/games/screen-capture/clips/nnK4qJADCtkpHrN_F?invite=cr-MSxZSjIsNTg0MzAzMDg1",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
