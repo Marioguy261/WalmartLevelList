@@ -123,6 +123,8 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p>
+                        2 Player levels can be beaten 2 player, as long as there is a handcam showing that it is 2 people. If there is a solo completion, it will be placed seperately, similar to the AREDL.
                 </div>
             </div>
         </main>
