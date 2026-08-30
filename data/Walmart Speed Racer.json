@@ -1,0 +1,31 @@
+{
+    "id": 147214540,
+    "name": "Walmart Speed Racer",
+    "author": "150IQPlayer",
+    "creators": ["150IQPlayer", "jackyywastaken"],
+    "verifier": "150IQPlayer",
+    "verification": "https://youtu.be/vPMcZ5yWXFY",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Marioguy261",
+            "link": "https://medal.tv/games/geometry-dash/clips/nlhiFHYL0kJMgCHPs?invite=cr-MSxZTDksNTYzMTc3MjEw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "SevantX",
+            "link": "https://youtu.be/dnrjo8qaUz8",
+            "percent": 100,
+            "hz": 60
+        }
+        ,
+        {
+            "user": "Beenitiger",
+            "link": "https://youtu.be/fNK5fFZpLQo?si=j5RtDB4VXWHhPXJa",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
