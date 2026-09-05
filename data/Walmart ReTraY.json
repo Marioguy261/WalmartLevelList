@@ -19,13 +19,18 @@
             "link": "https://medal.tv/games/geometry-dash/clips/nqv2pKvjsEkdjkzk4?invite=cr-MSxQbTMsNTYzMTc3MjEw",
             "percent": 100,
             "hz": 144
-        }
-        ,
+        },
         {
             "user": "Beenitiger",
             "link": "https://youtu.be/0nBXlQ8FGFI?si=v2ouXYv9Bm_ZvPos",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Maskuerade",
+            "link": "https://outplayed.tv/geometry-dash/bG5DQ4",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
