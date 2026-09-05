@@ -125,6 +125,16 @@ export default {
                     </p>
                     <p>
                         2 Player levels can be beaten 2 player, as long as there is a handcam showing that it is 2 people. If there is a solo completion, it will be placed seperately, similar to the AREDL.
+                    </p>
+                    <h3>Changelog</h3>
+                    <h2>Placements:</h2>
+                    <p>
+                        Walmart AfterCataBath at #4
+                    </p>
+                    <h2>Movements:</h2>
+                    <p>
+                        None
+                    </p>
                 </div>
             </div>
         </main>
