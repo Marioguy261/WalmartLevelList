@@ -135,6 +135,10 @@ export default {
                     <p>
                         None
                     </p>
+                    <h3>Recent Records:</h3>
+                    <p>
+                        Walmart ReTraY, ducksmezs, 100%
+                    </p>
                 </div>
             </div>
         </main>
